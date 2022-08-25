@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //UC1 uc = new UC1();
+            //uc.Length();
         }
     }
 }
