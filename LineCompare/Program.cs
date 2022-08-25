@@ -6,6 +6,8 @@
         {
             //UC1 uc = new UC1();
             //uc.Length();
+            //UC2_LengthUsingEquals uc1 = new UC2_LengthUsingEquals();
+            //uc1.Equals();
         }
     }
 }
