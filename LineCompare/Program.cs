@@ -8,6 +8,8 @@
             //uc.Length();
             //UC2_LengthUsingEquals uc1 = new UC2_LengthUsingEquals();
             //uc1.Equals();
+            UC3_LengthComparision uc2 = new UC3_LengthComparision();
+            uc2.Comparision();
         }
     }
 }
